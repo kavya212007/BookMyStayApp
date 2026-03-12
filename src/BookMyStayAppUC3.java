@@ -1,6 +1,6 @@
 /**
  * =================================================================
- * MAIN CLASS - BookMyStayAppUC3.java
+ * MAIN CLASS - BookMyStayAppUC3
  * =================================================================
  *
  * Use Case 3: Centralized Room Inventory Management
